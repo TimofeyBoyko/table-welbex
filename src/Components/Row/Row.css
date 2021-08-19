@@ -1,0 +1,12 @@
+tr {
+  border-bottom: 1px solid #cccccc;
+  line-height: 50px;
+}
+
+tr:hover {
+  background-color: #dddddd;
+}
+
+td {
+  text-align: center;
+}

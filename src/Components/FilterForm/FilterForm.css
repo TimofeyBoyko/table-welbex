@@ -1,0 +1,19 @@
+.filter-form {
+  width: 500px;
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  margin: 30px;
+}
+
+.filter-item {
+  margin-bottom: 10px;
+  width: 100%;
+  height: 30px;
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  grid-template-rows: 1fr;
+  grid-gap: 10px;
+}
